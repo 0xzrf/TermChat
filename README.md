@@ -4,13 +4,13 @@ A simple Rust-based chat system with a server and terminal clients. Multiple use
 
 ---
 
-## 📦 Requirements
+## Requirements
 - [Rust](https://www.rust-lang.org/tools/install) (for `cargo run`)
 - The terminal client alias/command `cr` should be available (update this if you’re using a different client runner)
 
 ---
 
-## 🚀 Setup & Usage
+## Setup & Usage
 
 ### 1. Clone the repository
 ```bash
@@ -18,7 +18,7 @@ git clone https://github.com/0xzrf/TermChat
 cd TermChat
 ```
 
-## 🚀 Start the sever
+## Start the sever
 change directories to server and run it:
 ```bash
 cd server && cargo run
@@ -26,7 +26,7 @@ cd server && cargo run
 
 leave the terminal open and start a new terminal
 
-## 🚀 Start the terminal client
+## Start the terminal client
 come to the terminal-client folder, and run it using:
 ```bash
 cd terminal-client && cargo run
